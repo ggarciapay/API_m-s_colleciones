@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Java-Version: 11
+Build-Jdk-Spec: 21
+Main-Class: edu.umg.programacion2.clase03.Main
+Created-By: Maven Integration for Eclipse
+
